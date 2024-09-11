@@ -5,9 +5,9 @@
 ![imagen 1](https://github.com/user-attachments/assets/a0c7cecf-94d1-4542-b3b0-450ddce279c9)
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010358493961)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gokussjssj4?utm_source=qr&igsh=MTZjMHNiNXU1OGNzeg==)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/hZ1Gy8fBZr4?si=wcnnsvLRIg1nIJEm)
 
 
   ### Sobre mí: Apenas estoy comenzando en esto de la tecnología y espero poder enteder todos los programas que existen.
@@ -26,9 +26,8 @@
 
 
   # Tecnologias 👩‍💻
-[![GITHUB](https://github.com/)]
-
-
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andy20571)
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/4WULPsp0IQlfjRTRCK/giphy.gif" width="200"/>
 </div>
