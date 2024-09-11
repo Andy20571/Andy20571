@@ -1,9 +1,28 @@
-## Hi there 👋
+## Bienvenido a este rincon de tecnología
+![imagen 1](https://github.com/user-attachments/assets/a0c7cecf-94d1-4542-b3b0-450ddce279c9)
+
+
+  Sobre mí: Apenas estoy comenzando en esto de la tecnología y espero poder enteder todos los programas que existen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Andy20571/Andy20571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
