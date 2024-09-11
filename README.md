@@ -1,5 +1,9 @@
+# <div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ua5x9mIqb6QdWev2zy/giphy.gif" width="100"/>
+
 ## Bienvenido a este rincon de tecnología
 ![imagen 1](https://github.com/user-attachments/assets/a0c7cecf-94d1-4542-b3b0-450ddce279c9)
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
