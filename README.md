@@ -1,5 +1,5 @@
 # <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ua5x9mIqb6QdWev2zy/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Ua5x9mIqb6QdWev2zy/giphy.gif" width="150"/>
 
 ## Bienvenido a este rincon de tecnología
 ![imagen 1](https://github.com/user-attachments/assets/a0c7cecf-94d1-4542-b3b0-450ddce279c9)
